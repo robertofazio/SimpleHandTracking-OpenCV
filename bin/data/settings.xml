@@ -1,0 +1,9 @@
+<group>
+	<Learning_Time>30</Learning_Time>
+	<Threshold_Value>10</Threshold_Value>
+	<erodeAmt>1</erodeAmt>
+	<dilateAmt>1.6</dilateAmt>
+<group/>
+<blurAmt>3.625</blurAmt>
+	<smooth>0.487375</smooth>
+</group>
